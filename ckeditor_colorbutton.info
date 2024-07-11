@@ -1,0 +1,7 @@
+name = CKEditor Color Button
+description = CKEditor plugin for adding text colors and background colors.
+package = User interface
+backdrop = 1.x
+type = module
+dependencies[] = ckeditor
+dependencies[] = ckeditor_panelbutton
