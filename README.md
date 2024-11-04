@@ -1,4 +1,4 @@
-CKEditor Indent
+CKEditor Color Button
 =================
 
 This plugin for CKEditor will provide text colors and background colors.
